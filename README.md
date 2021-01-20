@@ -5,13 +5,11 @@ Johann Bekker YJPCWYF29 Class 3A (ITDA310 Project submission)
 
 For this project I had to create a database solution (Health Information System) to link a hospital, community and healthcare workers. All requirements were gathered by analysing all three given scenarios. I had to ensure that my solution supports these various scenarios (please refer to the project documentation file).  The interface application allow clinicians to enter a diagnosis, examination findings, a prescription, a treatment request and schedule a follow-up appointment. Clinicians are also able to see results of treatments.  
 
---------------------------------------------------------------------------------
 The project (ZIP file) contains the following:
 *Documentation (Johann Bekker YJPCWYF29 ITDA310 Project documentation)
 *Java database interface (ClinicianDatabaseInterface)
 *Database (johannBekkerBroadReachITDA310ProjectDatabase)
 *Project questions and scenario
---------------------------------------------------------------------------------
 
 How to run:
 1. Ensure that you have the latest version of the NetBeans IDE installed.
